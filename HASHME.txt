@@ -1,0 +1,64 @@
+Hello Classmates!
+
+This is a file that you have to find the MD.5 hash of. 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Fusce aliquet posuere interdum. 
+In cursus velit id euismod hendrerit. Donec interdum, lorem quis congue ullamcorper, ipsum enim consectetur est, eu mollis dui tortor ut purus. 
+In eu ante justo. 
+Aliquam pellentesque, mi ac viverra sagittis, erat sapien pharetra odio, ut condimentum quam est a felis. 
+Vivamus sit amet risus faucibus, placerat lacus ac, elementum nisl. 
+Praesent viverra magna sit amet auctor tristique. 
+Nunc pretium dui et nisl sollicitudin luctus. 
+Curabitur nec ex turpis. 
+Proin consectetur, nunc id commodo dictum, libero lacus maximus risus, et interdum urna ante sit amet nisi. 
+Nunc at mattis augue. 
+Morbi non nunc vitae elit rhoncus commodo. 
+Sed dapibus dapibus ex, sit amet dictum ligula faucibus quis. 
+Ut facilisis orci vitae dui rutrum aliquam. 
+Vivamus sed tincidunt lectus.
+Etiam iaculis facilisis diam, sed porttitor eros. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Aenean lobortis ex at ornare pellentesque. 
+Aenean egestas, tellus non luctus congue, metus quam viverra velit, ac tincidunt ligula libero et sem. 
+Vestibulum malesuada dui fringilla, scelerisque urna laoreet, aliquam felis. 
+Cras placerat metus vel dolor lobortis, vitae auctor lectus finibus. 
+Donec tempus, neque in molestie venenatis, tellus nisl placerat velit, a imperdiet erat dui non dui. 
+Mauris ut tincidunt massa. Nulla rhoncus leo in justo efficitur consectetur. 
+Donec accumsan velit quis eros eleifend, tristique commodo leo ultrices. 
+Ut laoreet pellentesque libero ac lacinia. Nunc interdum nulla id elementum egestas. 
+Vestibulum dignissim leo quis lacus hendrerit scelerisque.
+Integer ultricies lorem non tincidunt commodo. 
+Pellentesque sit amet sapien eu ligula dapibus ornare. 
+Sed eleifend ipsum ligula, a rutrum lorem dapibus a. 
+Maecenas laoreet, neque vitae tristique congue, dolor velit malesuada ex, id tincidunt felis felis ac neque. 
+Suspendisse potenti. 
+Vestibulum a est eget risus placerat eleifend semper ut risus. 
+Sed ligula purus, condimentum eu posuere eget, convallis in arcu. 
+Nullam commodo leo augue, vel facilisis ligula scelerisque eget.
+Proin pulvinar tempus elementum. 
+Vivamus sagittis ex at leo dictum, vitae efficitur eros condimentum. 
+In molestie molestie maximus. Nam laoreet justo sapien. 
+Vivamus condimentum vel diam et dapibus. 
+Proin tortor lectus, finibus sit amet lobortis vitae, iaculis vel tortor. 
+Suspendisse ac quam et augue consequat dictum. 
+Phasellus in dapibus orci. 
+Nunc efficitur, ex vitae rhoncus cursus, lectus arcu feugiat dolor, at mattis eros nunc id enim. 
+Nulla in interdum ex, sit amet lacinia magna. 
+Integer imperdiet, augue eu tristique blandit, ipsum orci finibus augue, sed facilisis elit libero dapibus nibh. 
+Mauris varius est et erat pulvinar, eu accumsan turpis aliquet. 
+Etiam nec ex a eros finibus convallis non placerat risus.
+Aliquam a felis vehicula, blandit lacus nec, gravida tellus.
+Pellentesque pharetra aliquet scelerisque. 
+Phasellus nec neque a massa hendrerit imperdiet. 
+Vestibulum sit amet congue magna. 
+Etiam tellus velit, rutrum ac gravida ullamcorper, gravida vel arcu. 
+Pellentesque rhoncus turpis ut metus iaculis tempus. 
+Curabitur vel ligula aliquam, scelerisque eros at, vulputate lacus. 
+Phasellus fringilla, ante ut dictum rutrum, nibh massa congue lacus, eu ultricies neque eros vitae metus. 
+Sed in finibus ligula, ut aliquam quam. 
+Donec eget semper sapien, ullamcorper elementum urna. 
+Nulla lacinia tellus est, non varius dolor interdum sit amet. 
+Maecenas viverra iaculis libero, in tempor orci pretium et. 
+Nam pellentesque efficitur leo id pellentesque. 
+Pellentesque pharetra a eros sed pellentesque.

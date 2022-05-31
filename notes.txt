@@ -1,0 +1,16 @@
+https://www.comparitech.com/blog/information-security/md5-algorithm-with-examples/
+https://www.engr.mun.ca/~howard/PAPERS/ccece_2001.pdf
+1. Padding to ensure 448%512; regardless of initial length
+2. 64 bit bianry representation of original length. little endian.
+3. a, b, c, d: 01 23 45 67, 89 AB CD EF, FE DC BA 98, 76 54 32 10
+4. F(X, Y, Z): (X & Y) || (~X || Y)
+G(X, Y, Z): (X & Z) || (Y & ~Z)
+H(X, Y, Z): X ^ Y ^ Z
+I(X, Y, Z): Y ^ (X || ~Z)
+5. T[1...64] constructed from sine function for each of 16 steps
+T[i] = (2^32)*abs(sin(i)), i is in radians
+6. Array X holds 16 32-bit words. 
+7. p_2(i) = (1+5i)%16
+p_3(i) = (5+3i)%16
+p_4(i) = 7i%16
+8. Chain variable is A B C D
